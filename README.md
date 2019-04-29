@@ -4,7 +4,7 @@
 
 All responses will have the form.
 
-```jason
+```json
 {
     "data":"Mixed type of holding the content of the response",
     "message":"Description of what happened"
