@@ -4,7 +4,7 @@
 
 All responses will have the form.
 
-`git status
+`git status`
 
 ```json
 {
