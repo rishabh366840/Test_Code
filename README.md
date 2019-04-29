@@ -4,6 +4,8 @@
 
 All responses will have the form.
 
+`git status
+
 ```json
 {
     "data":"Mixed type of holding the content of the response",
